@@ -1,1 +1,1 @@
-# Codeclause_Project1
+# Telecom Churn Prediction Using Logistic Regression
